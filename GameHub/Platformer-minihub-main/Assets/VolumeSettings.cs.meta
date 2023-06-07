@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb55314e02f696540b897eea05c90958
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myMixer: {instanceID: 0}
+  - musicSlider: {instanceID: 0}
+  - SFXSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
